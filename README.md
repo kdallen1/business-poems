@@ -1,8 +1,8 @@
 # business poems
 
-I write poems about business and post them on LinkedIn. You can find them here.
+I write poems about business and post them on LinkedIn.
 
--   [Let me share my screen](poems/Let_me_share_my_screen.txt)
+-   [Share my screen](poems/Share_my_screen.txt)
 -   [Doing Business As](poems/Doing_Business_As.txt)
 -   [Ritual](poems/Ritual.txt)
 -   [Raising](poems/Raising.txt)
