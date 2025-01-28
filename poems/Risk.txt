@@ -2,7 +2,8 @@ Risk
 
 Adding rows to a spreadsheet
 Insulates us against unexpected events
-e.g. the sun births a sky god who
+Such as what if
+The sun births a sky god who
 Wipes all the datacenters and
 Rains down fire which
 Drives us underground
@@ -13,6 +14,6 @@ During the team-building exercise
 At the subterraneous off-site
 When you are building a machine
 Capable of destroying everything
-e.g. a Rube Goldberg machine
+Such as a Rube Goldberg machine
 You have to pause and ask yourself
 What if the marble doesn’t stop?
