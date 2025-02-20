@@ -20,3 +20,4 @@ I write poems about business and post them on LinkedIn.
 -   [Production](poems/Production.txt)
 -   [Risk](poems/Risk.txt)
 -   [Scroll](poems/Scroll.txt)
+-   [Venture](poems/Venture.txt)
