@@ -27,4 +27,4 @@ I write poems about business and post them on LinkedIn.
 -   [Company culture](poems/Company_culture.txt)
 -   [Workmorning](poems/Workmorning.txt)
 -   [Analemma](poems/Analemma.txt)
--   [How to supercharge your life using lean startup principles](poems/How_to_supercharge.txt)
+-   [How to supercharge your personal life using lean startup principles](poems/How_to_supercharge.txt)
