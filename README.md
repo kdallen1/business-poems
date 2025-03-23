@@ -28,3 +28,4 @@ I write poems about business and post them on LinkedIn.
 -   [Workmorning](poems/Workmorning.txt)
 -   [Analemma](poems/Analemma.txt)
 -   [How to supercharge your personal life using lean startup principles](poems/How_to_supercharge.txt)
+-   [Employee](poems/Employee.txt)
