@@ -30,3 +30,4 @@ I write poems about business and post them on LinkedIn.
 -   [How to supercharge your personal life using lean startup principles](poems/How_to_supercharge.txt)
 -   [Employee](poems/Employee.txt)
 -   [Year-end review](poems/Year-end_review.txt)
+-   [Platonic](poems/Platonic.txt)
