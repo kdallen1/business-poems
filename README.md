@@ -34,3 +34,4 @@ I write poems about business and post them on LinkedIn.
 -   [Blackshirts](poems/Blackshirts.txt)
 -   [Myrmecochory](poems/Myrmecochory.txt)
 -   [10,000-foot view](poems/10000-foot_view.txt)
+-   [Upcreek](poems/Upcreek.txt)
