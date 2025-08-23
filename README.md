@@ -35,3 +35,4 @@ I write poems about business and post them on LinkedIn.
 -   [Myrmecochory](poems/Myrmecochory.txt)
 -   [10,000-foot view](poems/10000-foot_view.txt)
 -   [Upcreek](poems/Upcreek.txt)
+- [Pain points](poems/Pain_points.txt)
