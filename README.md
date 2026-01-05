@@ -2,6 +2,8 @@
 
 I write poems about business and post them on LinkedIn.
 
+**Poems composed so far: 36**
+
 -   [Share my screen](poems/Share_my_screen.txt)
 -   [Doing Business As](poems/Doing_Business_As.txt)
 -   [Ritual](poems/Ritual.txt)
