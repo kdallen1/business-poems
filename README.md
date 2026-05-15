@@ -29,7 +29,6 @@ I write poems about business and post them on LinkedIn.
 -   [Company culture](poems/Company_culture.txt)
 -   [Workmorning](poems/Workmorning.txt)
 -   [Analemma](poems/Analemma.txt)
--   ~~[How to supercharge your personal life using lean startup principles](poems/How_to_supercharge.txt)~~
 -   [Employee](poems/Employee.txt)
 -   [Year-end review](poems/Year-end_review.txt)
 -   [Platonic](poems/Platonic.txt)
@@ -43,11 +42,9 @@ I write poems about business and post them on LinkedIn.
 -   [Transmission #2](poems/Transmission_2.txt)
 -   [Intercom](poems/Intercom.txt)
 -   [Lapidary](poems/Lapidary.txt)
--   ~~[Optimization](poems/Optimization.txt)~~
 -   [Golden hour](poems/Golden_hour.txt)
 -   [Your personal firmament](poems/Your_personal_firmament.txt)
 -   [Sundown](poems/Sundown.txt)
--   [Light rain](poems/Light_rain.txt)
 -   [Feedback](poems/Feedback.txt)
 -   [Meeting](poems/Meeting.txt)
 -   [Hierarchy](poems/Hierarchy.txt)
