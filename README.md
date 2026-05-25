@@ -2,7 +2,7 @@
 
 I write poems about business and post them on LinkedIn.
 
-**Poem count: 48**
+**Poem count: 49**
 
 -   [Share my screen](poems/Share_my_screen.txt)
 -   [Doing Business As](poems/Doing_Business_As.txt)
@@ -48,3 +48,4 @@ I write poems about business and post them on LinkedIn.
 -   [Feedback](poems/Feedback.txt)
 -   [Meeting](poems/Meeting.txt)
 -   [Hierarchy](poems/Hierarchy.txt)
+-   [You are on the fastest route](poems/You_are_on_the_fastest_route.txt)
