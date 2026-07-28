@@ -10,16 +10,16 @@ I write poems about business and post them on LinkedIn.
 -   [Raising](poems/Raising.txt)
 -   [Q3](poems/Q3.txt)
 -   [New gods](poems/New_gods.txt)
--   [Scrum](poems/Scrum.txt)
+-   **[Scrum](poems/Scrum.txt)**
 -   [Sales training](poems/Sales_training.txt)
 -   [Transmission](poems/Transmission.txt)
 -   [Birthday cake](poems/Birthday_cake.txt)
 -   [Interview](poems/Interview.txt)
 -   [Going home](poems/Going_home.txt)
 -   [Half day](poems/Half_day.txt)
--   [Milestone](poems/Milestone.txt)
+-   **[Milestone](poems/Milestone.txt)**
 -   [Dust Bowl 2030](poems/Dust_Bowl_2030.txt)
--   [Production](poems/Production.txt)
+-   **[Production](poems/Production.txt)**
 -   [Risk](poems/Risk.txt)
 -   [Scroll](poems/Scroll.txt)
 -   [Venture](poems/Venture.txt)
@@ -35,12 +35,12 @@ I write poems about business and post them on LinkedIn.
 -   [Blackshirts](poems/Blackshirts.txt)
 -   [Myrmecochory](poems/Myrmecochory.txt)
 -   [10,000-foot view](poems/10000-foot_view.txt)
--   [Upcreek](poems/Upcreek.txt)
+-   **[Upcreek](poems/Upcreek.txt)**
 -   [Pain points](poems/Pain_points.txt)
 -   [After Hours Trading](poems/After_hours_trading.txt)
 -   [Heaven](poems/Heaven.txt)
 -   [Transmission #2](poems/Transmission_2.txt)
--   [Intercom](poems/Intercom.txt)
+-   **[Intercom](poems/Intercom.txt)**
 -   [Lapidary](poems/Lapidary.txt)
 -   [Golden hour](poems/Golden_hour.txt)
 -   [Your personal firmament](poems/Your_personal_firmament.txt)
