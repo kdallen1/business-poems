@@ -33,7 +33,7 @@ I write poems about business and post them on LinkedIn.
 -   [Year-end review](poems/Year-end_review.txt)
 -   [Platonic](poems/Platonic.txt)
 -   **[Blackshirts](poems/Blackshirts.txt)**
--   [Myrmecochory](poems/Myrmecochory.txt)
+-   **[Myrmecochory](poems/Myrmecochory.txt)**
 -   **[10,000-foot view](poems/10000-foot_view.txt)**
 -   **[Upcreek](poems/Upcreek.txt)**
 -   [Pain points](poems/Pain_points.txt)
