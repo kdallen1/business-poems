@@ -2,7 +2,7 @@
 
 I write poems about business and post them on LinkedIn.
 
-**Poem count: 51**
+**Poem count: 52**
 
 -   [Share my screen](poems/Share_my_screen.txt)
 -   [Doing Business As](poems/Doing_Business_As.txt)
@@ -13,9 +13,9 @@ I write poems about business and post them on LinkedIn.
 -   **[Scrum](poems/Scrum.txt)**
 -   [Sales training](poems/Sales_training.txt)
 -   [Transmission](poems/Transmission.txt)
--   [Birthday cake](poems/Birthday_cake.txt)
+-   **[Birthday cake](poems/Birthday_cake.txt)**
 -   [Interview](poems/Interview.txt)
--   [Going home](poems/Going_home.txt)
+-   **[Going home](poems/Going_home.txt)**
 -   [Half day](poems/Half_day.txt)
 -   **[Milestone](poems/Milestone.txt)**
 -   [Dust Bowl 2030](poems/Dust_Bowl_2030.txt)
@@ -28,7 +28,7 @@ I write poems about business and post them on LinkedIn.
 -   [Gentle reminder](poems/Gentle_reminder.txt)
 -   [Company culture](poems/Company_culture.txt)
 -   [Workmorning](poems/Workmorning.txt)
--   [Analemma](poems/Analemma.txt)
+-   **[Analemma](poems/Analemma.txt)**
 -   [Employee](poems/Employee.txt)
 -   [Year-end review](poems/Year-end_review.txt)
 -   [Platonic](poems/Platonic.txt)
@@ -44,8 +44,8 @@ I write poems about business and post them on LinkedIn.
 -   [Lapidary](poems/Lapidary.txt)
 -   [Golden hour](poems/Golden_hour.txt)
 -   [Your personal firmament](poems/Your_personal_firmament.txt)
--   [Sundown](poems/Sundown.txt)
--   [Feedback](poems/Feedback.txt)
+-   **[Sundown](poems/Sundown.txt)**
+-   **[Feedback](poems/Feedback.txt)**
 -   [Meeting](poems/Meeting.txt)
 -   [Hierarchy](poems/Hierarchy.txt)
 -   [You are on the fastest route](poems/You_are_on_the_fastest_route.txt)
