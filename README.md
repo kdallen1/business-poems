@@ -11,7 +11,7 @@ I write poems about business and post them on LinkedIn.
 -   [Q3](poems/Q3.txt)
 -   [New gods](poems/New_gods.txt)
 -   **[Scrum](poems/Scrum.txt)**
--   [Sales training](poems/Sales_training.txt)
+-   **[Sales training](poems/Sales_training.txt)**
 -   [Transmission](poems/Transmission.txt)
 -   **[Birthday cake](poems/Birthday_cake.txt)**
 -   [Interview](poems/Interview.txt)
