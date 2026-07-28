@@ -23,21 +23,21 @@ I write poems about business and post them on LinkedIn.
 -   [Risk](poems/Risk.txt)
 -   [Scroll](poems/Scroll.txt)
 -   **[Venture](poems/Venture.txt)**
--   [Wonderful thing](poems/Wonderful_thing.txt)
--   [Mountain](poems/Mountain.txt)
+-   **[Wonderful thing](poems/Wonderful_thing.txt)**
+-   **[Mountain](poems/Mountain.txt)**
 -   [Gentle reminder](poems/Gentle_reminder.txt)
 -   [Company culture](poems/Company_culture.txt)
 -   [Workmorning](poems/Workmorning.txt)
 -   **[Analemma](poems/Analemma.txt)**
--   [Employee](poems/Employee.txt)
+-   **[Employee](poems/Employee.txt)**
 -   [Year-end review](poems/Year-end_review.txt)
 -   [Platonic](poems/Platonic.txt)
 -   **[Blackshirts](poems/Blackshirts.txt)**
 -   [Myrmecochory](poems/Myrmecochory.txt)
--   [10,000-foot view](poems/10000-foot_view.txt)
+-   **[10,000-foot view](poems/10000-foot_view.txt)**
 -   **[Upcreek](poems/Upcreek.txt)**
 -   [Pain points](poems/Pain_points.txt)
--   [After Hours Trading](poems/After_hours_trading.txt)
+-   **[After Hours Trading](poems/After_hours_trading.txt)**
 -   [Heaven](poems/Heaven.txt)
 -   [Transmission #2](poems/Transmission_2.txt)
 -   **[Intercom](poems/Intercom.txt)**
