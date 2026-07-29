@@ -36,7 +36,7 @@ I write poems about business and post them on LinkedIn.
 -   **[Myrmecochory](poems/Myrmecochory.txt)**
 -   **[10,000-foot view](poems/10000-foot_view.txt)**
 -   **[Upcreek](poems/Upcreek.txt)**
--   [Pain points](poems/Pain_points.txt)
+-   **[Pain points](poems/Pain_points.txt)**
 -   **[After Hours Trading](poems/After_hours_trading.txt)**
 -   [Heaven](poems/Heaven.txt)
 -   [Transmission #2](poems/Transmission_2.txt)
@@ -48,6 +48,6 @@ I write poems about business and post them on LinkedIn.
 -   **[Feedback](poems/Feedback.txt)**
 -   **[Meeting](poems/Meeting.txt)**
 -   **[Hierarchy](poems/Hierarchy.txt)**
--   [You are on the fastest route](poems/You_are_on_the_fastest_route.txt)
+-   **[You are on the fastest route](poems/You_are_on_the_fastest_route.txt)**
 -   **[No future](poems/No_future.txt)**
--   [Good news](poems/Good_news.txt)
+-   **[Good news](poems/Good_news.txt)**
