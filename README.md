@@ -4,12 +4,12 @@ I write poems about business and post them on LinkedIn.
 
 **Poem count: 55**
 
--   [Share my screen](poems/Share_my_screen.txt)
--   [Doing Business As](poems/Doing_Business_As.txt)
+-   **[Share my screen](poems/Share_my_screen.txt)**
+-   **[Doing Business As](poems/Doing_Business_As.txt)**
 -   **[Ritual](poems/Ritual.txt)**
--   [Raising](poems/Raising.txt)
--   [Q3](poems/Q3.txt)
--   [New gods](poems/New_gods.txt)
+-   **[Raising](poems/Raising.txt)**
+-   **[Q3](poems/Q3.txt)**
+-   **[New gods](poems/New_gods.txt)**
 -   **[Scrum](poems/Scrum.txt)**
 -   **[Sales training](poems/Sales_training.txt)**
 -   **[Transmission](poems/Transmission.txt)**
@@ -21,7 +21,7 @@ I write poems about business and post them on LinkedIn.
 -   [Dust Bowl 2030](poems/Dust_Bowl_2030.txt)
 -   **[Production](poems/Production.txt)**
 -   [Risk](poems/Risk.txt)
--   [Scroll](poems/Scroll.txt)
+-   **[Scroll](poems/Scroll.txt)**
 -   **[Venture](poems/Venture.txt)**
 -   **[Wonderful thing](poems/Wonderful_thing.txt)**
 -   **[Mountain](poems/Mountain.txt)**
@@ -31,7 +31,7 @@ I write poems about business and post them on LinkedIn.
 -   **[Analemma](poems/Analemma.txt)**
 -   **[Employee](poems/Employee.txt)**
 -   [Year-end review](poems/Year-end_review.txt)
--   [Platonic](poems/Platonic.txt)
+-   **[Platonic](poems/Platonic.txt)**
 -   **[Blackshirts](poems/Blackshirts.txt)**
 -   **[Myrmecochory](poems/Myrmecochory.txt)**
 -   **[10,000-foot view](poems/10000-foot_view.txt)**
@@ -52,4 +52,4 @@ I write poems about business and post them on LinkedIn.
 -   **[No future](poems/No_future.txt)**
 -   **[Good news](poems/Good_news.txt)**
 - [Eschatology](poems/Eschatology.txt)
-- [Fired again](poems/Fired_again.txt)
+- **[Fired again](poems/Fired_again.txt)**
