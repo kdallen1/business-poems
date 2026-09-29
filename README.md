@@ -16,7 +16,7 @@ I write poems about business and post them on LinkedIn.
 -   **[Birthday cake](poems/Birthday_cake.txt)**
 -   [Interview](poems/Interview.txt)
 -   **[Going home](poems/Going_home.txt)**
--   [Half day](poems/Half_day.txt)
+-   **[Half day](poems/Half_day.txt)**
 -   **[Milestone](poems/Milestone.txt)**
 -   [Dust Bowl 2030](poems/Dust_Bowl_2030.txt)
 -   **[Production](poems/Production.txt)**
@@ -39,11 +39,11 @@ I write poems about business and post them on LinkedIn.
 -   **[Pain points](poems/Pain_points.txt)**
 -   **[After Hours Trading](poems/After_hours_trading.txt)**
 -   [Heaven](poems/Heaven.txt)
--   [Transmission #2](poems/Transmission_2.txt)
+-   **[Transmission #2](poems/Transmission_2.txt)**
 -   **[Intercom](poems/Intercom.txt)**
 -   [Lapidary](poems/Lapidary.txt)
 -   [Golden hour](poems/Golden_hour.txt)
--   [Your personal firmament](poems/Your_personal_firmament.txt)
+-   **[Your personal firmament](poems/Your_personal_firmament.txt)**
 -   **[Sundown](poems/Sundown.txt)**
 -   **[Feedback](poems/Feedback.txt)**
 -   **[Meeting](poems/Meeting.txt)**
@@ -51,5 +51,5 @@ I write poems about business and post them on LinkedIn.
 -   **[You are on the fastest route](poems/You_are_on_the_fastest_route.txt)**
 -   **[No future](poems/No_future.txt)**
 -   **[Good news](poems/Good_news.txt)**
-- [Eschatology](poems/Eschatology.txt)
-- **[Fired again](poems/Fired_again.txt)**
+-   [Eschatology](poems/Eschatology.txt)
+-   **[Fired again](poems/Fired_again.txt)**
