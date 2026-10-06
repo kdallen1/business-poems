@@ -54,3 +54,4 @@ I write poems about business and post them on LinkedIn.
 -   [Eschatology](poems/Eschatology.txt)
 -   **[Fired again](poems/Fired_again.txt)**
 -   [Automatic reply](poems/Automatic_reply.txt)
+-   **[Light rain](poems/Light_rain.txt)**
