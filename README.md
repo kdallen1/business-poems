@@ -2,7 +2,7 @@
 
 I write poems about business and post them on LinkedIn.
 
-**Poem count: 55**
+**Poem count: 45**
 
 -   **[Share my screen](poems/Share_my_screen.txt)**
 -   **[Doing Business As](poems/Doing_Business_As.txt)**
@@ -30,7 +30,7 @@ I write poems about business and post them on LinkedIn.
 -   **[Workmorning](poems/Workmorning.txt)**
 -   **[Analemma](poems/Analemma.txt)**
 -   **[Employee](poems/Employee.txt)**
--   [Year-end review](poems/Year-end_review.txt)
+-   **[Year-end review](poems/Year-end_review.txt)**
 -   **[Platonic](poems/Platonic.txt)**
 -   **[Blackshirts](poems/Blackshirts.txt)**
 -   **[Myrmecochory](poems/Myrmecochory.txt)**
@@ -38,7 +38,7 @@ I write poems about business and post them on LinkedIn.
 -   **[Upcreek](poems/Upcreek.txt)**
 -   **[Pain points](poems/Pain_points.txt)**
 -   **[After Hours Trading](poems/After_hours_trading.txt)**
--   [Heaven](poems/Heaven.txt)
+-   **[Heaven](poems/Heaven.txt)**
 -   **[Transmission #2](poems/Transmission_2.txt)**
 -   **[Intercom](poems/Intercom.txt)**
 -   [Lapidary](poems/Lapidary.txt)
@@ -51,7 +51,8 @@ I write poems about business and post them on LinkedIn.
 -   **[You are on the fastest route](poems/You_are_on_the_fastest_route.txt)**
 -   **[No future](poems/No_future.txt)**
 -   **[Good news](poems/Good_news.txt)**
--   [Eschatology](poems/Eschatology.txt)
+-   **[Eschatology](poems/Eschatology.txt)**
 -   **[Fired again](poems/Fired_again.txt)**
 -   [Automatic reply](poems/Automatic_reply.txt)
 -   **[Light rain](poems/Light_rain.txt)**
+-   **[The all-seeing eye](poems/The_all-seeing_eye.txt)**
