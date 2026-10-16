@@ -55,4 +55,4 @@ I write poems about business and post them on LinkedIn.
 -   **[Fired again](poems/Fired_again.txt)**
 -   [Automatic reply](poems/Automatic_reply.txt)
 -   **[Light rain](poems/Light_rain.txt)**
--   **[The all-seeing eye](poems/The_all-seeing_eye.txt)**
+-   **[Stargazing](poems/Stargazing.txt)**
